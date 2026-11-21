@@ -97,8 +97,6 @@ Fibre-optic cabling is commonly used in the following environments:
 
 Fibre-optic connectors connect optical fibres to networking equipment while ensuring accurate alignment and minimal signal loss.
 
-Common fibre-optic connectors include:
-
 ![Fibre-Optic Connectors](../Images/05-Fibre-Optic-Connectors.png)
 
 > **NOTE:** The main differences among the types of connectors are dimensions and methods of coupling. 
@@ -113,8 +111,6 @@ It is used to connect networking equipment, optical transceivers and fibre patch
 
 - **Simplex:** Contains one optical fibre.
 - **Duplex:** Contains two optical fibres, commonly providing separate paths for transmitting and receiving data.
-
-### Common Cable Jacket Colours
 
 ![Fibre Optic Patch Cord Guide](../Images/05-Fibre-Optic-Patch-Cord-Guide.png)
 
