@@ -3,7 +3,7 @@
 **Network Applications | Solent University**
 
 Course: CCNA: Introduction to Networks  
-Platform: Wireshark & Windows Command Prompt
+Platform: Wireshark & Windows Command Prompt  
 Focus Area: ICMP, IPv4, MAC Addressing & Network Traffic Analysis
 
 
