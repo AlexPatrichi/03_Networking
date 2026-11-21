@@ -2,6 +2,11 @@
 
 **Network Applications | Solent University**
 
+Course: CCNA: Introduction to Networks  
+Platform: Wireshark & Windows Command Prompt
+Focus Area: ICMP, IPv4, MAC Addressing & Network Traffic Analysis
+
+
 ## 🎯 Objective
 
 Capture and analyse network traffic using Wireshark to understand how ICMP packets travel between devices on local and remote networks.
