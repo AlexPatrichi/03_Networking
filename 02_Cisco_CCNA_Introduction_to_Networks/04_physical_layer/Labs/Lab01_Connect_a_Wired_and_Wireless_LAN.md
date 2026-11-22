@@ -1,4 +1,4 @@
-# Lab 04: Connect a Wired and Wireless LAN
+# Lab 01: Connect a Wired and Wireless LAN
 
 **Cisco Networking Academy | Solent University**
 
