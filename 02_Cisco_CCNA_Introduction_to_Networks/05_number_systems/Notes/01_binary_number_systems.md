@@ -3,7 +3,7 @@
 **Cisco Networking Academy | Solent University**
 
 **Course:** CCNA: Introduction to Networks  
-**Module:** 05 - Number Systems 
+**Module:** 05 - Number Systems   
 **Focus Area:** Binary Numbers, IPv4 Addressing, Positional Notation and Binary–Decimal Conversion
 
 ## 🎯 Objective
